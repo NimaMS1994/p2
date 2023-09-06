@@ -42,7 +42,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.2.1,tensorflow==2.1.0,arabic_reshaper==3.0.0,python-bidi==0.4.2,keras==2.3.1
+requirements = python3==3.10,kivy==2.2.1,tensorflow==2.1.0,arabic_reshaper==3.0.0,python-bidi==0.4.2,keras==2.3.1
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
